@@ -1,0 +1,6 @@
+framework module Pods_RedKiteWebKit {
+  umbrella header "Pods-RedKiteWebKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
